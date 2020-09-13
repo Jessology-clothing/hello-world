@@ -8,5 +8,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### https://www.roblox.com/home
-[documentation](https://docs.github.com/categories/github-pages-basics/)
+### Ya
+[documentation](https://www.roblox.com/home)
